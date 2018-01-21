@@ -2,15 +2,12 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
 using System.Threading.Tasks;
 using Windows.ApplicationModel;
 using Windows.Foundation;
 using Windows.Graphics.Imaging;
 using Windows.Management.Deployment;
 using Windows.Storage;
-using Windows.UI.Popups;
 using Windows.UI.Xaml.Media.Imaging;
 using WinRTXamlToolkit.Imaging;
 
@@ -125,7 +122,7 @@ namespace MahdiGhiasi.AppListManager
             }
 
 
-            SaveAppList();
+            await SaveAppList();
             OnLoadCompleted();
         }
         
