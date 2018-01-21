@@ -1,9 +1,9 @@
 
-#This is a fork
+# This is a fork
 
 For original project see here: https://github.com/MahdiGhiasi/AppListManager
 
-##Credits
+## Credits
 
 All credits to original Author "Mahdi Ghiasi" https://github.com/MahdiGhiasi
 
@@ -11,7 +11,7 @@ All credits to original Author "Mahdi Ghiasi" https://github.com/MahdiGhiasi
 
 I created this fork to make some small improvements for myself, but if you like this fork and you want me continue the development let me know so I can work to maintain this project.
 
-#**Original readme:**
+# **Original readme:**
 
 # AppListManager
 A library for loading information about currently installed apps list in Windows 10 Mobile *capability unlocked devices*.
